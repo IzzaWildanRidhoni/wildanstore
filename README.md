@@ -12,6 +12,7 @@
 - [x] Tampil Product Per Category
 - [x] Order Product
 - [x] Tampil data Order
+- [x] Login Admin
 - [x] Login Customer
 - [x] Register Customer
 - [x] CRUD Product
